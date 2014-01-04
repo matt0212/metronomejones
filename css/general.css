@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h2 {
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	margin-top: 180px;
+}
+
+.player {
+	width:600px;
+	height:266px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	margin:-133px 0 0 -300px;
+}
+
+.footer-left {
+	display: inline-block;
+	float: left;
+	margin-top: 14px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 12px;
+}
+
+.footer-right {
+	display: inline-block;
+	float: right;
+	margin-top: 6px;
+	margin-left: 10px;
+}
